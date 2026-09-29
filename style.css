@@ -89,3 +89,21 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+button {
+    background-color: red;
+    color: white;
+    border:none;
+    padding: 10px 15pxborder-radius; 8px;
+    cursor: pointer;
+}
+
+button:hover { 
+   background-color: #9b4d83;
+}
+
+
+.curtir {
+    display: block;
+    width: it-content;
+    margin: 20px auto;
+}
